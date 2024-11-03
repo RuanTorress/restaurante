@@ -1,0 +1,30 @@
+/* useState  botoes */
+
+.ApagarBtn{
+
+    background-color: #e7dede79;
+    color: black;
+    font-weight: bold
+    
+}
+
+.AcenderBtn{
+
+    background-color:#2626c7;
+    color: white;
+    font-weight: bold;
+}
+
+
+.Mostrar{
+
+    visibility: visible;
+
+}
+
+.Esconder{
+
+    visibility: hidden;
+}
+
+

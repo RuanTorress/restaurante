@@ -27,7 +27,7 @@ export default function Card(props) {
 
             <span className={estiloCard.spanPreco}> R$ {props.preco}</span>
 
-        </section>
+        </section>   
 
 )
 

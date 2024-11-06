@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build",
+    "predeploy": "next build",
     "deploy": "gh-pages -d out"
   },
   "dependencies": {
@@ -19,6 +19,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://RuanTorress.github.io/ruanfabio59"  
+  "homepage": "https://RuanTorress.github.io/ruanfabio59"
 }
-   

@@ -1,23 +1,17 @@
 {
-  "name": "proj-restaurante",
+  "name": "proj-sorveteria",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "next build",
-    "deploy": "gh-pages -d out"
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.2.16",
-    "proj-restaurante": "file:",
+    "next": "14.2.3",
+    "proj-sorveteria": "file:",
     "react": "^18",
-    "react-dom": "^18",
-    "sharp": "^0.33.5"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.2.0"
-  },
-  "homepage": "https://RuanTorress.github.io/ruanfabio59"
+    "react-dom": "^18"
+  }
 }
